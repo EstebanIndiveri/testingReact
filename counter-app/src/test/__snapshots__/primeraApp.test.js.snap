@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en primeraApp /> <PrimeraApp/> 1`] = `
+<Fragment>
+  <h1>
+    hola
+  </h1>
+  <p
+    style={
+      Object {
+        "color": "red",
+        "textDecoration": "underline",
+      }
+    }
+  >
+    subtitle
+  </p>
+</Fragment>
+`;
