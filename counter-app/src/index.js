@@ -6,6 +6,11 @@ import CounterApp from './CounterApp';
 
 const divRoot=document.querySelector('#root');
 
+// ReactDOM.render(
+//     <CounterApp value={12}
+//     />,divRoot);
+
+
 ReactDOM.render(
-<CounterApp value={12}
+<PrimeraApp saludo="hola"
 />,divRoot);
